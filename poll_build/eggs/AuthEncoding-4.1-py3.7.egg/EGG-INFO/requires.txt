@@ -1,0 +1,7 @@
+six
+
+[bcrypt]
+bcrypt
+
+[test]
+pytest

@@ -1,0 +1,10 @@
+setuptools
+zope.browserresource
+zope.interface
+zope.pagetemplate
+zope.publisher
+zope.security
+
+[test]
+zope.testing
+zope.testrunner

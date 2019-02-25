@@ -1,0 +1,17 @@
+WSGIProxy2
+WebTest>=2.0.30
+pytz>dev
+setuptools
+six
+zope.cachedescriptors
+zope.interface
+zope.schema
+
+[test]
+mock
+zope.testing
+
+[test_bbb]
+zope.testbrowser[test]
+
+[wsgi]

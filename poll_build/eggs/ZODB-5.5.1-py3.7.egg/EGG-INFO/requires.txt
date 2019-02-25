@@ -1,0 +1,13 @@
+BTrees>=4.2.0
+ZConfig
+persistent>=4.4.0
+six
+transaction>=2.4
+zc.lockfile
+zodbpickle>=1.0.1
+zope.interface
+
+[test]
+manuel
+zope.testing
+zope.testrunner>=4.4.6

@@ -1,0 +1,30 @@
+setuptools
+zope.component
+zope.i18nmessageid
+zope.interface
+zope.location
+zope.proxy>=4.3.0
+zope.schema
+
+[docs]
+Sphinx
+repoze.sphinx.autointerface
+
+[pytz]
+pytz
+
+[test]
+BTrees
+zope.component
+zope.configuration
+zope.location
+zope.testing
+zope.testrunner
+
+[untrustedpython:python_version == "2.7"]
+zope.untrustedpython
+
+[untrustedpython:python_version >= "3.3"]
+
+[zcml]
+zope.configuration

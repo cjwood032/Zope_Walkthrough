@@ -1,0 +1,9 @@
+
+[config]
+
+[docs]
+Sphinx>=1.7.5
+pylons-sphinx-themes
+
+[paste]
+Paste

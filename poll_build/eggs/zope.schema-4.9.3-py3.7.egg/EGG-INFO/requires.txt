@@ -1,0 +1,12 @@
+setuptools
+zope.event
+zope.interface>=3.6.0
+
+[docs]
+Sphinx
+repoze.sphinx.autointerface
+
+[test]
+zope.i18nmessageid
+zope.testing
+zope.testrunner

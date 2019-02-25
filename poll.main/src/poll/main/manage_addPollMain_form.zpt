@@ -1,0 +1,12 @@
+<html xmlns="http://www.w3.org/1999/xhtml"
+      xmlns:tal="http://xml.zope.org/namespaces/tal">
+  <body>
+
+    <h2>Add POLL</h2>
+    <form action="addPollMain" method="post">
+      Id: <input type="text" name="id" /><br />
+      Title: <input type="text" name="title" /><br />
+      <input type="submit" value="Add" />
+    </form>
+  </body>
+</html>

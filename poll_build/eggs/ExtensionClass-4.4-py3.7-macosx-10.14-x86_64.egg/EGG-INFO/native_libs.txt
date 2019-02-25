@@ -1,0 +1,3 @@
+ComputedAttribute/_ComputedAttribute.cpython-37m-darwin.so
+ExtensionClass/_ExtensionClass.cpython-37m-darwin.so
+MethodObject/_MethodObject.cpython-37m-darwin.so

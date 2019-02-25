@@ -1,0 +1,10 @@
+
+[docs]
+Sphinx>=1.7.5
+pylons-sphinx-themes
+
+[testing]
+coverage
+pytest-cov
+pytest-xdist
+pytest>=3.1.0
